@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Adam 
 
-<!--
-**Adam-el-Hafidi/Adam-el-Hafidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning programming and exploring how software works.
 
-Here are some ideas to get you started:
+## Current Focus
+- Learning Python
+- Practicing programming fundamentals
+- Using Git and GitHub to manage projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Treasure Island Game (Python)
+
+## Learning Path
+- Strengthen problem-solving and coding skills
+- Continue building small learning projects
+- Explore the Rust programming language
+
+## Tools I'm Using
+- Python
+- Git
+- GitHub
