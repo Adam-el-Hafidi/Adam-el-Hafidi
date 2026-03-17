@@ -8,9 +8,9 @@ I'm learning programming and exploring how software works.
 - Using Git and GitHub to manage projects
 
 ## Projects
-- Treasure Island Game (Python)
-- BMI calculator (Python)
-- Menu Program (Python)
+- Treasure Island Game (Python) — simple Python mini game
+- BMI calculator (Python) — calculates BMI with user input
+- Menu Program (Python) — terminal arcade game with multiple features
 
 ## Learning Path
 - Strengthen problem-solving and coding skills
