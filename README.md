@@ -9,6 +9,8 @@ I'm learning programming and exploring how software works.
 
 ## Projects
 - Treasure Island Game (Python)
+- BMI calculator (Python)
+- Menu Program (Python)
 
 ## Learning Path
 - Strengthen problem-solving and coding skills
